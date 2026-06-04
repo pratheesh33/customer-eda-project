@@ -10,6 +10,7 @@ Olist Customer Dataset
 - Python
 - Pandas
 - Matplotlib
+- Excel
 
 ## Analysis Performed
 - Dataset understanding
